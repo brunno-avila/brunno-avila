@@ -2,15 +2,15 @@
 
 ### 💻 Desenvolvedor Web | 🎓 Estudante de Engenharia de Software
 
-Sou estudante de **Engenharia de Software** e tenho interesse em desenvolvimento web,
-principalmente na construção de aplicações modernas, funcionais e com boas interfaces.
+Sou estudante de Engenharia de Software e tenho interesse em desenvolvimento web,
+criação de aplicações e desenvolvimento de software.
 
-Atualmente estou aprimorando meus conhecimentos em **JavaScript, React, PHP e Laravel**,
-além de estudar cada vez mais sobre desenvolvimento de software, Git e boas práticas.
+Atualmente estou aprimorando meus conhecimentos em JavaScript, React, PHP,
+Laravel, bancos de dados e Git.
 
 ---
 
-## 🚀 Tecnologias
+## 🛠️ Tecnologias
 
 <div align="center">
 
@@ -22,46 +22,14 @@ além de estudar cada vez mais sobre desenvolvimento de software, Git e boas pr�
 
 ## 📚 Atualmente estudando
 
-- 🔹 JavaScript
-- 🔹 React
-- 🔹 TypeScript
-- 🔹 PHP
-- 🔹 Laravel
-- 🔹 Banco de dados
-- 🔹 Git e GitHub
-- 🔹 Engenharia de Software
-
----
-
-## 🛠️ Projetos
-
-### 🧮 Calculadora de IMC
-
-Aplicação web desenvolvida para calcular o Índice de Massa Corporal,
-apresentando a classificação do usuário de acordo com o resultado.
-
-**Tecnologias:**
-
-`HTML` `CSS` `JavaScript`
-
----
-
-### 📋 Lista de Tarefas
-
-Aplicação web para gerenciamento de tarefas, desenvolvida como projeto
-de prática de desenvolvimento front-end.
-
-**Tecnologias:**
-
-`HTML` `CSS` `JavaScript`
-
----
-
-### 🌐 Projetos acadêmicos
-
-Projetos desenvolvidos durante minha graduação em Engenharia de Software,
-envolvendo desenvolvimento web, banco de dados, prototipação e desenvolvimento
-de sistemas.
+- JavaScript
+- React
+- TypeScript
+- PHP
+- Laravel
+- Banco de dados
+- Git e GitHub
+- Engenharia de Software
 
 ---
 
