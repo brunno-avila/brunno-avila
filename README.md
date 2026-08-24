@@ -1,75 +1,51 @@
-# 👋 Olá, eu sou o Bruno!
+<h2 data-importer="text" align="left">Hi 👋! My name is BRUNO</h2>
 
-### 💻 Estudante de Engenharia de Software | Desenvolvedor Web
+###
 
-🎓 Estudante de **Engenharia de Software**  
-🌱 Atualmente aprimorando meus conhecimentos em **JavaScript, React e desenvolvimento Web**  
-🚀 Buscando evoluir constantemente através de projetos e novos desafios
+<p data-importer="text" align="left">Olá! Me chamo Bruno, sou estudante de Engenharia de Software e tenho interesse em desenvolvimento Front-End e Back-End. Atualmente estudo e desenvolvo projetos utilizando HTML, CSS, JavaScript, TypeScript, React e MySQL, buscando constantemente aprimorar meus conhecimentos, aprender novas tecnologias e evoluir!</p>
 
----
+###
 
-## 🛠️ Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel,mysql,git,github,vscode" />
-
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
 
----
+###
 
-## 📊 Minhas estatísticas
+<img data-importer="image" align="right" height="170" src="https://i.imgflip.com/65efzo.gif"  />
 
-<div align="center">
+###
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunno-avila&show_icons=true&theme=transparent&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunno-avila&layout=compact&theme=transparent&hide_border=true"/>
-
+<div data-importer="stats" align="left">
+  <img src="https://raw.githubusercontent.com/brunno-avila/brunno-avila/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-## 📈 Linguagens mais utilizadas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunno-avila&layout=donut&theme=transparent&hide_border=true" />
-
+<div data-importer="socials" align="left">
+  <a href="bruno_s_avila" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/bruno-avila-063590364/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="brunno_avila@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
 </div>
 
----
-
-## 🚀 Atualmente estudando
-
-- JavaScript
-- TypeScript
-- React
-- PHP
-- Laravel
-- Banco de dados
-- Desenvolvimento Web
-
----
-
-## 📫 Entre em contato
-
-<div align="center">
-
-<a href="mailto:brunno_avila@outlook.com">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/bruno-avila-063590364/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💚 Sempre aprendendo, sempre evoluindo.
-
-</div>
+###
