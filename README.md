@@ -26,12 +26,12 @@
 
 ###
 
-<img data-importer="image" align="right" height="170" src="https://i.imgflip.com/65efzo.gif"  />
+<img data-importer="image" align="right" height="170" src="https://i.giphy.com/Urm8pbzek1SXC.webp"  />
 
 ###
 
 <div data-importer="stats" align="left">
-  <img data-importer="image" align="right" height="170" src="https://i.giphy.com/Urm8pbzek1SXC.webp"/>
+  <img src="https://raw.githubusercontent.com/brunno-avila/brunno-avila/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
